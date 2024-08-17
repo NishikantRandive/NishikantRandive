@@ -11,7 +11,6 @@ I’m  a Data Analyst and Trading Enthusiast with a passion for transforming com
 🎓 Bachelor's in Information Technology
 
 
- 
 
 ## 🔍 What I Do:
 
@@ -26,3 +25,11 @@ I’m  a Data Analyst and Trading Enthusiast with a passion for transforming com
 
 ## Data Cleaning & Preparation: 
    Ensuring data accuracy and quality for robust analysis.
+
+
+# Tools and Languages used
+Excel
+PowerBI
+MySQL
+Python
+
