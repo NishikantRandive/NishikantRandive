@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there I'm Nishikant 👋
 
-<!--
-**NishikantRandive/NishikantRandive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ I’m  a Data Analyst and Trading Enthusiast with a passion for transforming complex data into actionable insights. My expertise spans data visualization, statistical analysis, machine learning, and trading strategies.
+
+🔍 What I Do:
+
+Data Analysis & Visualization: Crafting clear and impactful visualizations with tools like Tableau, Power BI, and Python libraries (Matplotlib, Seaborn).
+Statistical Modeling & Machine Learning: Developing predictive models and algorithms to uncover trends and drive data-informed decisions.
+Trading Strategies & Analysis: Applying data-driven approaches to develop and refine trading strategies, leveraging quantitative analysis to enhance trading performance.
+Data Cleaning & Preparation: Ensuring data accuracy and quality for robust analysis.
