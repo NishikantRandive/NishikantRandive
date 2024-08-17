@@ -8,6 +8,9 @@
 🔍 What I Do:
 
 Data Analysis & Visualization: Crafting clear and impactful visualizations with tools like Tableau, Power BI, and Python libraries (Matplotlib, Seaborn).
+
 Statistical Modeling & Machine Learning: Developing predictive models and algorithms to uncover trends and drive data-informed decisions.
+
 Trading Strategies & Analysis: Applying data-driven approaches to develop and refine trading strategies, leveraging quantitative analysis to enhance trading performance.
+
 Data Cleaning & Preparation: Ensuring data accuracy and quality for robust analysis.
