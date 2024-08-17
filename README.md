@@ -8,7 +8,7 @@ I’m  a Data Analyst and Trading Enthusiast with a passion for transforming com
 
 📚 Currently Upskilling in Data Analyst Field
 
-🎓 Bachelor's in Electronics and Instrumentation
+🎓 Bachelor's in Information Technology
 
 
  
