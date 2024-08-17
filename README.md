@@ -1,6 +1,10 @@
 # Hi there, I'm Nishikant 👋
 
 
+# About Me
+📊 Aspiring Data Analyst
+📚 Currently Upskilling in Data Analyst Field
+🎓 Bachelor's in Electronics and Instrumentation
 
 
  I’m  a Data Analyst and Trading Enthusiast with a passion for transforming complex data into actionable insights. My expertise spans data visualization, statistical analysis, machine learning, and trading strategies.
