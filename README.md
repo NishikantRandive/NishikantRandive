@@ -5,12 +5,12 @@
 
  I’m  a Data Analyst and Trading Enthusiast with a passion for transforming complex data into actionable insights. My expertise spans data visualization, statistical analysis, machine learning, and trading strategies.
 
-🔍 What I Do:
+##🔍 What I Do:
 
-Data Analysis & Visualization: Crafting clear and impactful visualizations with tools like Tableau, Power BI, and Python libraries (Matplotlib, Seaborn).
+##Data Analysis & Visualization: Crafting clear and impactful visualizations with tools like Tableau, Power BI, and Python libraries (Matplotlib, Seaborn).
 
-Statistical Modeling & Machine Learning: Developing predictive models and algorithms to uncover trends and drive data-informed decisions.
+##Statistical Modeling & Machine Learning: Developing predictive models and algorithms to uncover trends and drive data-informed decisions.
 
-Trading Strategies & Analysis: Applying data-driven approaches to develop and refine trading strategies, leveraging quantitative analysis to enhance trading performance.
+##Trading Strategies & Analysis: Applying data-driven approaches to develop and refine trading strategies, leveraging quantitative analysis to enhance trading performance.
 
-Data Cleaning & Preparation: Ensuring data accuracy and quality for robust analysis.
+##Data Cleaning & Preparation: Ensuring data accuracy and quality for robust analysis.
