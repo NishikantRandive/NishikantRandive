@@ -1,5 +1,7 @@
 # Hi there, I'm Nishikant 👋
 
+I’m  a Data Analyst and Trading Enthusiast with a passion for transforming complex data into actionable insights. My expertise spans data visualization, statistical analysis, machine learning, and trading strategies.
+
 
 # About Me
 📊 Trader and Aspiring Data Analyst
@@ -9,9 +11,9 @@
 🎓 Bachelor's in Electronics and Instrumentation
 
 
- I’m  a Data Analyst and Trading Enthusiast with a passion for transforming complex data into actionable insights. My expertise spans data visualization, statistical analysis, machine learning, and trading strategies.
+ 
 
-##🔍 What I Do:
+## 🔍 What I Do:
 
 ## Data Analysis & Visualization: 
    Crafting clear and impactful visualizations with tools like Tableau, Power BI, and Python libraries (Matplotlib, Seaborn).
