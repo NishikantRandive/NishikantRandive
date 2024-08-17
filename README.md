@@ -29,7 +29,10 @@ I’m  a Data Analyst and Trading Enthusiast with a passion for transforming com
 
 # Tools and Languages used
 Excel
+
 PowerBI
+
 MySQL
+
 Python
 
