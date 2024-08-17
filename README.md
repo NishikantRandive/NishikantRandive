@@ -2,7 +2,6 @@
 
 I’m  a Data Analyst and Trading Enthusiast with a passion for transforming complex data into actionable insights. My expertise spans data visualization, statistical analysis, machine learning, and trading strategies.
 
-
 # About Me
 📊 Trader and Aspiring Data Analyst
 
