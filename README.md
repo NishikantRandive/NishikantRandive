@@ -2,8 +2,10 @@
 
 
 # About Me
-📊 Aspiring Data Analyst
+📊 Trader and Aspiring Data Analyst
+
 📚 Currently Upskilling in Data Analyst Field
+
 🎓 Bachelor's in Electronics and Instrumentation
 
 
